@@ -1,5 +1,5 @@
 # Easy-Render-PyPI-Package
-This repository contains the source code and documentation for the Inception Renderer Python package, which is available on PyPi. The Inception Renderer is a powerful tool for rendering any youtube videos and any web page over the Jupyter/Colab Notebook.
+This repository contains the source code and documentation for the Easy Renderer Python package, which is available on PyPi. The Inception Renderer is a powerful tool for rendering any youtube videos and any web page over the Jupyter/Colab Notebook.
 
 # How to run?
 ## Installation:
