@@ -3,7 +3,7 @@ from EasyRender.logger import logger
 import re
 from IPython.display import HTML, display
 
-def render_youtube_video(url:str, width:int = 780, height:int = 315):
+def render_youtube_video(url:str, width:int = 560, height:int = 315):
     try:
 
         regex = r"(?:youtube\.com.*(?:\?|&)v=|youtu\.be/|youtube\.com/(?:embed|shorts|live)/)([a-zA-Z0-9_-]{11})"
